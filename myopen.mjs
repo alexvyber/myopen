@@ -12,28 +12,27 @@ const openArr = [
   {
     name: "1000",
     href: "https://github.com/alexvyber/1000DaysOfCode"
-  }
-,
+  },
+  {
+    name: "100",
+    href: "https://github.com/alexvyber/1000DaysOfCode"
+  },
   {
     name: "tw",
     href: "https://twitter.com/alexvyber"
-  }
-,
+  },
   {
     name: "in",
     href: "https://linkedin.com/alexvyber"
-  }
-,
+  },
+  {
+    name: "100",
+    href: "https://github.com/alexvyber/1000DaysOfCode"
+  },
   {
     name: "1000",
     href: "https://github.com/alexvyber/1000DaysOfCode"
-  }
-,
-  {
-    name: "1000",
-    href: "https://github.com/alexvyber/1000DaysOfCode"
-  }
-,
+  },
   {
     name: "1000",
     href: "https://github.com/alexvyber/1000DaysOfCode"
