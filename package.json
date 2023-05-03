@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "open": "^8.4.0"
+    "open": "^9.1.0"
   }
 }
